@@ -6,6 +6,7 @@
 1. [Описание проекта](#disc)
 2. [Какой кейс решаем?](#w_case)
 3. [Результаты](Project-1.ipynb)
+4. [Данные hh.ru для скачивания](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
 
 ### <a id ='disc'> Описание проекта 
 
